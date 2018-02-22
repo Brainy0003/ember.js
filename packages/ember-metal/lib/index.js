@@ -135,3 +135,4 @@ export {
   isProxy
 } from './is_proxy';
 export { default as descriptor } from './descriptor';
+export { tracked } from './tracked';
